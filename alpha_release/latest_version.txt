@@ -1,3 +1,3 @@
-v0008
-file=firmware_v0008.bin
-built_at_utc=2026-03-08T08:15:10Z
+v0009
+file=firmware_v0009.bin
+built_at_utc=2026-03-08T09:02:29Z
