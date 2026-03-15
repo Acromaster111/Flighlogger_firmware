@@ -1,3 +1,3 @@
-v0026
-file=firmware_v0026.bin
-built_at_utc=2026-03-15T20:44:49Z
+v0027
+file=firmware_v0027.bin
+built_at_utc=2026-03-15T20:59:45Z
