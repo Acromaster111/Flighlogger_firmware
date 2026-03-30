@@ -1,3 +1,0 @@
-v0030
-file=firmware_v0030.bin
-built_at_utc=2026-03-15T21:42:45Z
