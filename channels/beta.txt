@@ -1,4 +1,4 @@
-﻿v0040
-file=firmware_v0040.bin
+﻿v0052
+file=firmware_v0052.bin
 channel=beta
-built_at_utc=2026-04-01T09:10:25Z
+built_at_utc=2026-04-15T09:10:25Z
