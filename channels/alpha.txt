@@ -1,4 +1,4 @@
-v0053
-file=firmware_v0053.bin
+v0058
+file=firmware_v0058.bin
 channel=alpha
-built_at_utc=2026-05-05T13:22:52Z
+built_at_utc=2026-05-02T08:41:51Z
