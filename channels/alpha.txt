@@ -1,4 +1,4 @@
-v0062
-file=firmware_v0062.bin
+v0063
+file=firmware_v0063.bin
 channel=alpha
-built_at_utc=2026-05-28T12:38:12Z
+built_at_utc=2026-06-01T09:12:37Z
