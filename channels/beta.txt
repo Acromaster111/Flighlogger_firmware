@@ -1,4 +1,4 @@
-v0055
-file=firmware_v0055.bin
+v0069
+file=firmware_v0069.bin
 channel=beta
-built_at_utc=2026-04-27T09:53:37Z
+built_at_utc=2026-07-27T19:51:16Z
