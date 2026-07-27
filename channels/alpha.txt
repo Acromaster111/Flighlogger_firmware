@@ -1,4 +1,4 @@
-v0068
-file=firmware_v0068.bin
+v0069
+file=firmware_v0069.bin
 channel=alpha
-built_at_utc=2026-07-27T16:00:37Z
+built_at_utc=2026-07-27T19:50:11Z
