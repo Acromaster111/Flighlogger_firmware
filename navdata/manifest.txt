@@ -1,0 +1,11 @@
+format=1
+release_date=2026-07-28
+generated_at_utc=2026-07-28T09:55:05Z
+nav_source_date=2026-07-28
+nav_file=navdata_eu.bin
+nav_size=393490
+nav_sha256=78911c59b196b2b21665488a649534e0d7fde451e78553a328e95d9028e97d63
+frequency_source_date=2026-07-28
+frequency_file=frequencies_eu.bin
+frequency_size=458519
+frequency_sha256=050957ee58ccd651b7d7ed4f65efadff966fad265970035672422c9a5394be59
