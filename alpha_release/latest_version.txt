@@ -1,4 +1,4 @@
-v0072
-file=firmware_v0072.bin
+v0073
+file=firmware_v0073.bin
 channel=alpha
-built_at_utc=2026-07-29T15:44:26Z
+built_at_utc=2026-07-29T16:43:55Z
