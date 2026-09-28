@@ -1,4 +1,4 @@
-v0080
-file=firmware_v0080.bin
+v0081
+file=firmware_v0081.bin
 channel=alpha
-built_at_utc=2026-09-10T09:05:36Z
+built_at_utc=2026-09-22T10:40:35Z
